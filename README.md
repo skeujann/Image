@@ -1,2 +1,2 @@
-# Image
-互联网引用图片
+# Images
+iNat 引用图片
